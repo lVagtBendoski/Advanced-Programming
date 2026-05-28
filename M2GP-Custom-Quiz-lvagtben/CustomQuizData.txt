@@ -1,0 +1,47 @@
+How well can you compare things?
+5
+What's better?
+1
+2
+Apples
+0
+Oranges
+1
+What's bigger?
+1
+4
+Pizza
+0
+Emperor penguins
+0
+Polar Bears
+1
+Andrew Garfield
+0
+What's Faster?
+1
+3
+Garfield the Cat
+0
+Martin Shkreli
+0
+Me sprinting
+1
+What is the smartest decision?
+99
+4
+Grading things as quickly as can be done while maintaining accuracy.
+1
+Applying front brake pressure while negotiating a curve on a motorcycle.
+0
+Printing Money at the public library.
+0
+repeatedly turning on and off a device, each time expecting a different result.
+0
+who provides the best internet?
+1
+2
+UVM
+0
+Anyone else
+1

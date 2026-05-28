@@ -1,0 +1,31 @@
+So You Think You're a C++ Programmer?
+3
+How many main functions does a C++ project have?
+1
+4
+0
+0
+1
+1
+2
+0
+3
+0
+What is the file extension on a C++ header file?
+1
+3
+.cpp
+0
+.h
+1
+.txt
+0
+What symbol(s) do you use to start a line comment in C++?
+2
+3
+//
+1
+\\
+0
+#
+0

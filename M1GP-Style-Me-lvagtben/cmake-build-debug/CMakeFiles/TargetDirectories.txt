@@ -1,0 +1,3 @@
+C:/Users/bobjo/CLionProjects/M1GP-Style-Me-lvagtben/cmake-build-debug/CMakeFiles/Style-Me.dir
+C:/Users/bobjo/CLionProjects/M1GP-Style-Me-lvagtben/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bobjo/CLionProjects/M1GP-Style-Me-lvagtben/cmake-build-debug/CMakeFiles/rebuild_cache.dir
